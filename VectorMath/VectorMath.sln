@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorMath", "VectorMath.vcxproj", "{EEF32938-8D69-4C0D-A9D3-14AFE2358284}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorMathTesting", "..\VectorMathTesting\VectorMathTesting.vcxproj", "{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284} = {EEF32938-8D69-4C0D-A9D3-14AFE2358284}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Debug|x64.ActiveCfg = Debug|x64
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Debug|x64.Build.0 = Debug|x64
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Debug|x86.Build.0 = Debug|Win32
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Release|x64.ActiveCfg = Release|x64
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Release|x64.Build.0 = Release|x64
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Release|x86.ActiveCfg = Release|Win32
+		{EEF32938-8D69-4C0D-A9D3-14AFE2358284}.Release|x86.Build.0 = Release|Win32
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Debug|x64.ActiveCfg = Debug|x64
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Debug|x64.Build.0 = Debug|x64
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Debug|x86.ActiveCfg = Debug|Win32
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Debug|x86.Build.0 = Debug|Win32
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Release|x64.ActiveCfg = Release|x64
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Release|x64.Build.0 = Release|x64
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Release|x86.ActiveCfg = Release|Win32
+		{5220A11F-28DA-4DB8-AA5D-5AD8A1F7205F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F8D0C9-698E-4E35-B130-58363CB62EE6}
+	EndGlobalSection
+EndGlobal

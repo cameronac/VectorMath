@@ -1,0 +1,2 @@
+C:\Users\Cameron Collins\Desktop\C++\Projects\VectorMath\VectorMath\Debug\VectorMath.lib
+C:\Users\Cameron Collins\Desktop\C++\Projects\VectorMath\VectorMath\Debug\VectorMath.pdb
