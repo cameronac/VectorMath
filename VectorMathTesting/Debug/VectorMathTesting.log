@@ -1,3 +1,5 @@
 ﻿  VectorMathTesting.cpp
 C:\Users\Cameron Collins\Desktop\C++\Projects\VectorMath\VectorMath\VectorMath.h(18): warning C4172: returning address of local variable or temporary
+C:\Users\Cameron Collins\Desktop\C++\Projects\VectorMath\VectorMath\VectorMath.h(30): warning C4172: returning address of local variable or temporary
+C:\Users\Cameron Collins\Desktop\C++\Projects\VectorMath\VectorMath\VectorMath.h(26): warning C4172: returning address of local variable or temporary
   VectorMathTesting.vcxproj -> C:\Users\Cameron Collins\Desktop\C++\Projects\VectorMath\VectorMath\Debug\VectorMathTesting.exe
